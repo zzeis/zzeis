@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando como Analista de Sistemas
-- 🌱 Estudando React ...
+- 🌱 Estudando React
 - 📫 Contate-me: moisemonteiro.stark@gmail.com
 
 <div align="center">
