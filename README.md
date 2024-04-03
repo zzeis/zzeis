@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando como Analista de Sistemas
-- 🌱 Estudando React | JS | FRONTEND
+- 🌱 Estudando JAVA | LARAVEL
 - 📫 Contato: moisemonteiro.stark@gmail.com
 
 <div align="center">
