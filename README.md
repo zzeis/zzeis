@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando como Analista de Sistemas
-- 🌱 Estudando JAVA | LARAVEL
+- 🌱 FULLSTACK | LARAVEL | JS | WEB DEV | 
 - 📫 Contato: moisemonteiro.stark@gmail.com
 
 <div align="center">
