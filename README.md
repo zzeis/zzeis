@@ -5,11 +5,7 @@
 - 🌱 FULLSTACK | LARAVEL | JS | WEB DEV | 
 - 📫 Contato: moisemonteiro.stark@gmail.com
 
-<div align="center">
-  <a href="https://github.com/zzeis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzeis&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeis&layout=compact&langs_count=7&theme=darcula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   
